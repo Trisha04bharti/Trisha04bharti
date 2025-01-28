@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 - 🎨 **Passionate about:** Designing visually appealing and intuitive interfaces.
 - 🌱 **Currently learning:** Advanced front-end techniques and backend optimization.
 - 🤝 **Open to collaborate on:** Innovative web development projects and creative ideas.
-- 📫 **Reach me at:** [trisha.bharti@example.com](mailto:trisha.bharti@example.com) (Replace with your actual email)
+- 📫 **Reach me at:** [trishabharti444@gmail.com](mailto:trishabharti444@gmail.com) 
 
 ---
 
