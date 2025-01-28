@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 ---
 
 ## 🔗 Connect With Me
-- 🌐 **Portfolio:** [https://portfolio-three-opal-79.vercel.app/](https://portfolio-three-opal-79.vercel.app/)
+- 🌐 **Portfolio:** [Trisha.Portfolio](https://portfolio-three-opal-79.vercel.app/)
 - 💼 **LinkedIn:** [Trisha Bharti](https://www.linkedin.com/in/trisha-bharti-96100a261/)
 
 ---
